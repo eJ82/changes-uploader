@@ -1,0 +1,5 @@
+1.0.2:
+======
+    [Add] Basic Watcher/Uploader
+    [Add] Support for included extensions
+    [Modify] Update usage description

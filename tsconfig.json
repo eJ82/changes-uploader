@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2017",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "outDir": "js",
+        "removeComments": true,
+        "typeRoots": [
+            "node_modules/@types"
+        ],
+        "strictNullChecks": true
+    },
+    "include": [
+        "src"
+    ]
+}
